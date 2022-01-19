@@ -1,6 +1,6 @@
 const { JsonRpcProvider } = require('@ethersproject/providers');
 const snapshot = require('../').default;
-const networks = require('@snapshot-labs/snapshot.js/src/networks.json');
+const networks = require('snapshot-whale.js/src/networks.json');
 
 const space = 'yam.eth';
 const network = '1';

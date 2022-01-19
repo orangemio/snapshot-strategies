@@ -1,5 +1,5 @@
 import _strategies from './strategies';
-import snapshot from '@snapshot-labs/snapshot.js';
+import snapshot from 'snapshot-whale.js';
 import { getDelegations } from './utils/delegation';
 
 export async function getScoresDirect(

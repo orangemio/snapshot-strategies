@@ -37,7 +37,8 @@
     "@uniswap/v3-sdk": "^3.3.1",
     "cross-fetch": "^3.0.6",
     "eth-ens-namehash": "^2.0.8",
-    "json-to-graphql-query": "^2.0.0"
+    "json-to-graphql-query": "^2.0.0",
+    "snapshot-whale.js": "^0.3.26"
   },
   "devDependencies": {
     "@types/jest": "^26.0.23",

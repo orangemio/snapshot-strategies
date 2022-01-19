@@ -5,7 +5,7 @@
   "packageRules": [
     {
       "packagePatterns": ["*"],
-      "excludePackagePatterns": ["@snapshot-labs/snapshot.js"],
+      "excludePackagePatterns": ["snapshot-whale.js"],
       "enabled": false
     }
   ]
